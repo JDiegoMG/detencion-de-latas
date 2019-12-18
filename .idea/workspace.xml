@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f779422a-bb8b-4c4f-b0d2-51e16ffe18dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UlYnfJMAMdFg4dMYrRs9zGkC1L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.entrenamiento">
+    <configuration name="carateristicas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codigo prueba de robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/carateristicas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compare hist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codigo prueba de robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../compareHist (tarea 10)" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../compareHist (tarea 10)/compare hist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="entrenamiento" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codigo prueba de robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/entrenamiento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prediction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codigo prueba de robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prediction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sklearn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codigo prueba de robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sklearn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.entrenamiento" />
+        <item itemvalue="Python.compare hist" />
+        <item itemvalue="Python.carateristicas" />
+        <item itemvalue="Python.prediction" />
+        <item itemvalue="Python.sklearn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f779422a-bb8b-4c4f-b0d2-51e16ffe18dc" name="Default Changelist" comment="" />
+      <created>1574544352254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574544352254</updated>
+      <workItem from="1575933047817" duration="29138000" />
+      <workItem from="1576001553783" duration="120094000" />
+      <workItem from="1576345825210" duration="63655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1576624173212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="127" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1576403513452" />
+    <state width="1317" height="125" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1576446045378" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576624173212" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1576624173212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="127" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1576403513452" />
+    <state width="1317" height="125" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1576446045377" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576624173212" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1576624173212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="127" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1576403513451" />
+    <state width="1317" height="125" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1576446045377" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576624173212" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1576624173212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="127" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1576403513452" />
+    <state width="1317" height="125" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1576446045378" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576624173212" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1576105650826">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1576022006745" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576105650826" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1576105650825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.center/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1576022006745" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576105650825" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1576105650825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.left/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1576022006745" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576105650825" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1576105650825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.right/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1576022006745" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576105650825" />
+    <state x="-1182" y="6" key="SettingsEditor" timestamp="1576395758727">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1182" y="6" key="SettingsEditor/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1576395758727" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576142669366" />
+    <state x="376" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1575933066124">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="376" y="187" key="com.intellij.ide.util.TipDialog/-1366.0.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1575933066124" />
+    <state x="-1022" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575950875469">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1022" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1575950875469" />
+    <state x="-1020" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1576383171049">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1020" y="49" width="672" height="678" key="search.everywhere.popup/-1366.0.1366.728/0.0.1360.728@-1366.0.1366.728" timestamp="1576383171049" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576034062188" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/codigo_prueba_de_robot$prediction.coverage" NAME="prediction Coverage Results" MODIFIED="1576441598446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codigo_prueba_de_robot$compare_hist.coverage" NAME="compare hist Coverage Results" MODIFIED="1576588764523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../compareHist (tarea 10)" />
+    <SUITE FILE_PATH="coverage/codigo_prueba_de_robot$carateristicas.coverage" NAME="carateristicas Coverage Results" MODIFIED="1576586895437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codigo_prueba_de_robot$robot.coverage" NAME="robot Coverage Results" MODIFIED="1576010593128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codigo_prueba_de_robot$sklearn.coverage" NAME="sklearn Coverage Results" MODIFIED="1576440966638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codigo_prueba_de_robot$entrenamiento.coverage" NAME="entrenamiento Coverage Results" MODIFIED="1576624173144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
