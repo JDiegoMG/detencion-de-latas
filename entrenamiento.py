@@ -6,6 +6,8 @@ from pybrain3.tools.shortcuts import buildNetwork
 from pybrain3.datasets import SupervisedDataSet
 from pybrain3.supervised.trainers import BackpropTrainer
 import pickle
+from sklearn.metrics import confusion_matrix
+import matplotlib.pyplot as plt
 
 #lectura de los datos con las caracteteristicas de cada imagen
 data = []
@@ -125,8 +127,6 @@ plt.xlabel('Etiqueta predicha')
 plt.ylabel('Etiqueta')
 plt.title(u'Matriz de Confusión')
 plt.show()
-
-cv.destroyAllWindows()
 
 cv.destroyAllWindows()
 
