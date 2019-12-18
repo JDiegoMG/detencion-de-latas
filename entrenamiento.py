@@ -83,10 +83,10 @@ def get_humoments(momentos):
 suma = 0
 suma2 = 0
 suma3 = 0
-for i in range(50,60):
+clase_predicha = []
+for i in range(1,21):
     suma += 1
-    #file = 'C:/Users/mag_g/Documents/uv/TOPICOS DE IA/codigo prueba de robot/objetos verdes/ ('+ str(i) +').jpg'
-    file = 'C:/Users/mag_g/Documents/uv/TOPICOS DE IA/codigo prueba de robot/train data/(' + str(i) + ').jpg'
+    file = 'C:/Users/mag_g/Documents/uv/TOPICOS DE IA/detencion de latas/imagen test/ ('+ str(i) + ').jpg'
     img = cv.imread(file)
     img = cv.resize(img,(640,480))
     momentos = preprocesamiento_img(img)
@@ -95,6 +95,7 @@ for i in range(50,60):
     hu = get_humoments(momentos)
     compute = net.activate(hu) #presiccion con el modelo entrenado
     r = round(compute[0], 0)
+    clase_predicha.append(abs(r))
     if r==1:
         print('es una lata')
         suma2 += 1
@@ -103,8 +104,29 @@ for i in range(50,60):
         print('no es lata')
         suma3 += 1
 
-prom = 100*suma2/10
-print('Porcentaje de prediccion: ',prom,'%')
+etiquetas_test = [0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1]
+mc = confusion_matrix(etiquetas_test, clase_predicha)
+print (u'Matriz de confusión')
+print (mc)
+
+plt.figure(figsize=(6,6))
+ticks = range(10)
+plt.xticks(ticks)
+plt.yticks(ticks)
+plt.imshow(mc,cmap=plt.cm.Blues,interpolation='nearest')
+plt.colorbar(shrink=0.8)
+w, h = mc.shape
+for i in range(w):
+    for j in range(h):
+        plt.annotate(str(mc[i][j]), xy=(j, i),
+                    horizontalalignment='center',
+                    verticalalignment='center')
+plt.xlabel('Etiqueta predicha')
+plt.ylabel('Etiqueta')
+plt.title(u'Matriz de Confusión')
+plt.show()
+
+cv.destroyAllWindows()
 
 cv.destroyAllWindows()
 
